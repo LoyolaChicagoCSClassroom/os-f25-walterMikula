@@ -27,7 +27,8 @@ OBJS = \
 	terminal.o \
 	rprintf.o \
 	iopolling.o \
-	page.o
+	page.o \
+	mmu.o
 
 # Make sure to keep a blank line here after OBJS list
 
